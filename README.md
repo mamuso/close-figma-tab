@@ -1,6 +1,6 @@
 # Close Figma Tab - Chrome extension
 
-The extension will automatically close your Chrome tab after the Figma file opens in the [Figma desktop app](https://www.figma.com/downloads/).
+This [Chrome extension](https://chrome.google.com/webstore/detail/close-figma-tab/oonojkdagfgjmempbfipokgjjigkoocj) will automatically close your Chrome tab after the Figma file opens in the [Figma desktop app](https://www.figma.com/downloads/).
 
 ![Close Figma Tab](assets/tab.png)
 
