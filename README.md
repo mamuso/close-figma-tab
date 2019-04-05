@@ -14,7 +14,7 @@ You know the drill
 
 1. Download the [latest release](https://github.com/mamuso/close-figma-tab/releases/latest) of the extension and unzip it
 2. Launch Chrome
-3. Go to Extensions (`chrome://extensions/`)
+3. Go to Extensions `chrome://extensions/`
 4. Toggle `Developer mode`
 5. Click `Load unpacked extension`
 6. Select `src` folder inside the unzipped folder
