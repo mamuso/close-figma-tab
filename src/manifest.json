@@ -1,0 +1,28 @@
+{
+  "name": "Close Figma Tab",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Close Figma tab if you have \"Open in Desktop App\" active",
+  "homepage_url": "https://github.com/mamuso/close-figma-tab",
+  "icons": {
+    "48": "icons/48.png",
+    "96": "icons/96.png",
+    "128": "icons/128.png"
+  },
+  "background": {
+    "scripts": [
+      "js/background.js"
+    ],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+    "matches": ["http://*.figma.com/file/*", "https://*.figma.com/file/*"],
+     "js": ["js/content.js"],
+     "run_at": "document_end"
+    }
+   ], 
+  "permissions": [
+    "activeTab"
+  ]
+}
