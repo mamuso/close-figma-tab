@@ -4,9 +4,9 @@ This [Chrome extension](https://chrome.google.com/webstore/detail/close-figma-ta
 
 ![Close Figma Tab](assets/tab.png)
 
-## Install from the Chrome Web Store
+## Install from the Chrome Web Store:
 
-You know the drill
+You know the drill:
 1. [Install extension](https://chrome.google.com/webstore/detail/close-figma-tab/oonojkdagfgjmempbfipokgjjigkoocj) from Chrome Web Store.
 2. Go and open files in Chrome like crazy
 
