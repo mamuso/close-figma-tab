@@ -7,7 +7,7 @@ This extension, available for [Chrome](https://chrome.google.com/webstore/detail
 
 ## Get the extension online:
 
-- Get it [from the Chrome Web Store](https://chrome.google.com/webstore/detail/close-figma-tab/oonojkdagfgjmempbfipokgjjigkoocj) from the Chrome Web Store
+- Get it [from the Chrome Web Store](https://chrome.google.com/webstore/detail/close-figma-tab/oonojkdagfgjmempbfipokgjjigkoocj)
 - Or [from the Firefox Add-ons website](https://addons.mozilla.org/en-US/firefox/addon/close-figma-tab/)
 
 
