@@ -1,3 +1,3 @@
-chrome.runtime.onMessage.addListener(function(message, sender, sendResponse) {
-  if(message.closeThis) chrome.tabs.remove(sender.tab.id);
+chrome.runtime.onMessage.addListener((message, sender) => {
+  if (message.closeFigmaTab) chrome.tabs.remove(sender.tab.id);
 });

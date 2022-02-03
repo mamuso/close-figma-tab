@@ -1,10 +1,11 @@
-(function() {
-	// Adding a delay before chacking
-	setTimeout(function(){
-		// Check if the desktop interstitial is open
-		var interstitial = window.document.querySelectorAll("*[class^=\"desktop_app_interstitial\"]")[0]
-		if(interstitial) {
-			chrome.runtime.sendMessage({closeThis: true});
-		}
-	}, 5000);
+(function () {
+  window.addEventListener("load", () => {
+    const interstitial = window.document.querySelector(
+      '*[class^="desktop_app_interstitial"]'
+    );
+
+    if (interstitial) {
+      chrome.runtime.sendMessage({ closeFigmaTab: true });
+    }
+  });
 })();
