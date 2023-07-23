@@ -1,26 +1,15 @@
-# Close Figma Tab - Chrome and Firefox extension
+# Close Zoom Tab
 
-This extension, available for [Chrome](https://chrome.google.com/webstore/detail/close-figma-tab/oonojkdagfgjmempbfipokgjjigkoocj) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/close-figma-tab/) will automatically close your Chrome tab after the Figma file opens in the [Figma desktop app](https://www.figma.com/downloads/).
+This extension will automatically close your browser tab after Zoom opens.
 
-![Close Figma Tab](assets/tab.png)
+## How to use
 
+Load this as an unpacked extension in your browser of choice. Target [the child Source/ folder](https://github.com/ericwbailey/remove-board-movement-events-from-the-github-issue-timeline/tree/master/Source), and not the parent repo folder.
 
-## Get the extension online:
+Currently, this extension only supports browsers that support the Chrome Extension Manifest V3 format.
 
-- Get it [from the Chrome Web Store](https://chrome.google.com/webstore/detail/close-figma-tab/oonojkdagfgjmempbfipokgjjigkoocj)
-- Or [from the Firefox Add-ons website](https://addons.mozilla.org/en-US/firefox/addon/close-figma-tab/)
+Click the extension's icon to remove board movement events. Click again to restore them. Neat!
 
+## Credit
 
-## Install it manually in Chrome:
-
-1. Download the [latest release](https://github.com/mamuso/close-figma-tab/releases/latest) of the extension and unzip it
-2. Launch Chrome
-3. Go to Extensions `chrome://extensions/`
-4. Toggle `Developer mode`
-5. Click `Load unpacked extension`
-6. Select `src` folder inside the unzipped folder
-
-
-## Something is broken?
-
-Please, [file an issue](https://github.com/mamuso/close-figma-tab/issues) in the repository.
+This work is a fork of @mamuso's excellent [Close Figma Tab](https://github.com/mamuso/close-figma-tab).
