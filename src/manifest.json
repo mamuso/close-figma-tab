@@ -1,9 +1,9 @@
 {
-  "name": "Close Figma Tab",
+  "name": "Close Zoom Tab",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Close Figma tab if you have \"Open in Desktop App\" active",
-  "homepage_url": "https://github.com/mamuso/close-figma-tab",
+  "description": "Closes the Zoom launch session browser tab.",
+  "homepage_url": "https://github.com/ericwbailey/close-zoom-tab/",
   "icons": {
     "48": "icons/48.png",
     "96": "icons/96.png",
