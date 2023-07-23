@@ -1,3 +1,5 @@
+⚠️ **NOTE**: Still being worked on
+
 # Close Zoom Tab
 
 This extension will automatically close your browser tab after Zoom opens.
