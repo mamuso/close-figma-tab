@@ -1,3 +1,5 @@
+⚠️ **NOTE**: Still being worked on
+
 # Close Zoom Tab
 
 This extension will automatically close your browser tab after Zoom opens.
@@ -12,4 +14,4 @@ Click the extension's icon to remove board movement events. Click again to resto
 
 ## Credit
 
-This work is a fork of @mamuso's excellent [Close Figma Tab](https://github.com/mamuso/close-figma-tab).
+This work is a fork of [@mamuso](https://github.com/mamuso)'s excellent [Close Figma Tab](https://github.com/mamuso/close-figma-tab).
