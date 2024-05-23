@@ -6,5 +6,5 @@
 		if(interstitial) {
 			chrome.runtime.sendMessage({closeThis: true});
 		}
-	}, 5000);
+	}, 8000);
 })();
