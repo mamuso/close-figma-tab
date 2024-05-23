@@ -17,7 +17,7 @@
   },
   "content_scripts": [
     {
-    "matches": ["http://*.figma.com/file/*", "https://*.figma.com/file/*", "http://*.figma.com/board/*", "https://*.figma.com/board/*"],
+    "matches": ["http://*.figma.com/file/*", "https://*.figma.com/file/*", "http://*.figma.com/board/*", "https://*.figma.com/board/*", "https://*.figma.com/design/*", "http://*.figma.com/design/*"],
      "js": ["js/content.js"],
      "run_at": "document_end"
     }
